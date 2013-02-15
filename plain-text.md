@@ -1,0 +1,21 @@
+[@narfdotpl](http://narf.pl/) &middot; 2011-06-07
+
+---
+
+
+Plain Text
+==========
+
+I've won an inner battle.  A major one.  In fact, I wouldn't believe
+something like this could be called a "victory", until now.  I've
+chosen the technology for my blag.  I won't use [Jekyll][], I won't use
+[Hyde][], I won't spend any more time writing my own engine.  I'll use
+plain text files.
+
+> If something looks ghetto, that's a feature.
+>
+> &mdash; Dustin Sallings
+
+
+  [Jekyll]: http://jekyllrb.com/
+  [Hyde]: http://ringce.com/hyde
