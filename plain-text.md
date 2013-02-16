@@ -1,4 +1,4 @@
-[@narfdotpl](http://narf.pl/) &middot; 2011-06-07
+[@narfdotpl](http://narf.pl/) &middot; 2011-06-07, 2013-02-16
 
 ---
 
@@ -20,3 +20,11 @@ plain text files.
   [Jekyll]: http://jekyllrb.com/
   [Hyde]: http://ringce.com/hyde
   [Dustin Sallings]: http://dustin.github.com/2009/12/31/countdown.html
+
+
+In early 2013 I [switched][commit] to using [GitHub Flavored Markdown][gfm]
+and hosting it on GitHub.
+
+
+  [commit]: https://github.com/narfdotpl/writings/commit/4d94f7aec5161f2060e22d0b577576b85da5ec90
+  [gfm]: https://help.github.com/articles/github-flavored-markdown
