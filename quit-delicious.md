@@ -1,11 +1,8 @@
 [@narfdotpl](http://narf.pl/) &middot; 2011-10-24
 
----
-
-
+--------------
 Quit Delicious
 ==============
-
 
 I'm not comfortable with [Delicious][] adding quotes to my descriptions.
 I don't like [Pinboard][]'s look and URLs.  [Trivium][] is God.

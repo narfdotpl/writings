@@ -1,8 +1,6 @@
 [@narfdotpl](http://narf.pl/) &middot; 2011-06-07, 2013-02-16
 
----
-
-
+----------
 Plain Text
 ==========
 
