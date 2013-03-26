@@ -15,7 +15,7 @@ things written by [@narfdotpl](http://narf.pl/)
 
 <br><hr>
 
-created using [gfm][]<br>
-intended to be viewed on github
+written in [gfm][]<br>
+best viewed on github
 
   [gfm]: https://help.github.com/articles/github-flavored-markdown
