@@ -43,7 +43,7 @@ Cons:
 - confusing UI that requires too many taps
 - too many settings
 - crappy parser (missing paragraphs, images, etc.)
-- broken links on Wikipedia articles
+- broken links in Wikipedia articles
 - bugs (sometimes I can't archive an article in the grid view, but I can in
   the article view)
 - no support for "browse the web and quickly make a page readable" workflow
